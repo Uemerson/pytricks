@@ -21,5 +21,7 @@ The following is a list of all the scripts in this repository, open them to see 
 
 - [Function argument unpacking in Python](function-argument-unpacking-in-python.py)
 
+- [Measure the execution time of small bits of Python code with the "timeit" module](measure-execution-time-small-bits.py)
+
 # References and credits
 Some tricks were taken from [RealPython - 🐍 Python Tricks 💌](https://realpython.com/python-tricks/)
