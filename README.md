@@ -9,5 +9,7 @@ The following is a list of all the scripts in this repository, open them to see 
 
 - [Merging two dicts in Python 3.5+ with a single expression](mergins-two-dicts-with-a-single-expression.py)
 
+- [Different ways to test multiple flags at once in Python](different-ways-to-test-multiple-flags-at-once.py)
+
 # References and credits
 Some tricks were taken from [RealPython - 🐍 Python Tricks 💌](https://realpython.com/python-tricks/)
