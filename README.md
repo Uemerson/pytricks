@@ -15,5 +15,7 @@ The following is a list of all the scripts in this repository, open them to see 
 
 - [The get() method on Python dicts and its "default" arg](get-method-default-arg.py)
 
+- [Python's namedtuples can be a great alternative to defining a class manually](namedtuples-alternative-to-defining-a-class-manually.py)
+
 # References and credits
 Some tricks were taken from [RealPython - 🐍 Python Tricks 💌](https://realpython.com/python-tricks/)
