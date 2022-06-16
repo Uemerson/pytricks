@@ -11,5 +11,7 @@ The following is a list of all the scripts in this repository, open them to see 
 
 - [Different ways to test multiple flags at once in Python](different-ways-to-test-multiple-flags-at-once.py)
 
+- [How to sort a Python dict by value](sort-a-python-dict-by-value.py)
+
 # References and credits
 Some tricks were taken from [RealPython - 🐍 Python Tricks 💌](https://realpython.com/python-tricks/)
