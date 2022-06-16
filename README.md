@@ -19,5 +19,7 @@ The following is a list of all the scripts in this repository, open them to see 
 
 - [You can use "json.dumps()" to pretty-print Python dicts](json-dumps-to-pretty-print-python-dicts.py)
 
+- [Function argument unpacking in Python](function-argument-unpacking-in-python.py)
+
 # References and credits
 Some tricks were taken from [RealPython - 🐍 Python Tricks 💌](https://realpython.com/python-tricks/)
