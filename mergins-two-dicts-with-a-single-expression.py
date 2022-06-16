@@ -16,7 +16,7 @@ print(z)
 # output: {'a': 1, 'c': 4, 'b': 3}
 
 # In these examples, Python merges dictionary keys
-# in the order listed in the expression, overwriting 
+# in the order listed in the expression, overwriting
 # duplicates from left to right.
 #
 # See: https://www.youtube.com/watch?v=Duexw08KaC8
