@@ -27,5 +27,7 @@ The following is a list of all the scripts in this repository, open them to see 
 
 - [Functions are first-class citizens in Python](functions-are-first-class-citizens.py)
 
+- [Dicts can be used to emulate switch/case statements](dict-emulate-switch-case.py)
+
 # References and credits
 Some tricks were taken from [RealPython - 🐍 Python Tricks 💌](https://realpython.com/python-tricks/)
