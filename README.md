@@ -29,5 +29,7 @@ The following is a list of all the scripts in this repository, open them to see 
 
 - [Dicts can be used to emulate switch/case statements](scripts/dict-emulate-switch-case.py)
 
+- [Python's built-in HTTP server](docs/python-built-in-http-server.md)
+
 # References and credits
 Some tricks were taken from [RealPython - 🐍 Python Tricks 💌](https://realpython.com/python-tricks/)
