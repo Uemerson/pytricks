@@ -35,5 +35,7 @@ The following is a list of all the scripts in this repository, open them to see 
 
 - [Type annotations](scripts/type-annotations.py)
 
+- [Python's list slice syntax can be used without indices](scripts/list-slice-without-indices.py)
+
 # References and credits
 Some tricks were taken from [RealPython - 🐍 Python Tricks 💌](https://realpython.com/python-tricks/)
