@@ -37,5 +37,9 @@ The following is a list of all the scripts in this repository, open them to see 
 
 - [Python's list slice syntax can be used without indices](scripts/list-slice-without-indices.py)
 
+# Easter eggs
+
+- [A fun little CPython easter egg](easter-eggs/antigravity.md)
+
 # References and credits
 Some tricks were taken from [RealPython - 🐍 Python Tricks 💌](https://realpython.com/python-tricks/)
