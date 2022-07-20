@@ -41,5 +41,7 @@ The following is a list of all the scripts in this repository, open them to see 
 
 - [A fun little CPython easter egg](easter-eggs/antigravity.md)
 
+- [Finding the most common elements in an iterable](scripts/most-common-elements-in-iterable.py)
+
 # References and credits
 Some tricks were taken from [RealPython - 🐍 Python Tricks 💌](https://realpython.com/python-tricks/)
