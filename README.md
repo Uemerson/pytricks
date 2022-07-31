@@ -43,5 +43,7 @@ The following is a list of all the scripts in this repository, open them to see 
 
 - [Finding the most common elements in an iterable](scripts/most-common-elements-in-iterable.py)
 
+-[Generates permutations for an iterable](scripts/generates-permutations.py)
+
 # References and credits
 Some tricks were taken from [RealPython - 🐍 Python Tricks 💌](https://realpython.com/python-tricks/)
