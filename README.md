@@ -29,13 +29,18 @@ The following is a list of all the scripts in this repository, open them to see 
 
 - [Dicts can be used to emulate switch/case statements](scripts/dict-emulate-switch-case.py)
 
-- [Python's built-in HTTP server](docs/python-built-in-http-server.md)
-
-- [Python's list comprehensions are awesome](docs/list-comprehensions.md)
 
 - [Type annotations](scripts/type-annotations.py)
 
 - [Python's list slice syntax can be used without indices](scripts/list-slice-without-indices.py)
+
+# Docs
+
+- [Python's built-in HTTP server](docs/python-built-in-http-server.md)
+
+- [Python's list comprehensions are awesome](docs/list-comprehensions.md)
+
+- [When To Use __repr__ vs __str__?](docs/__repr__%20vs%20__str__.md)
 
 # Easter eggs
 
@@ -43,7 +48,8 @@ The following is a list of all the scripts in this repository, open them to see 
 
 - [Finding the most common elements in an iterable](scripts/most-common-elements-in-iterable.py)
 
--[Generates permutations for an iterable](scripts/generates-permutations.py)
+- [Generates permutations for an iterable](scripts/generates-permutations.py)
+
 
 # References and credits
 Some tricks were taken from [RealPython - 🐍 Python Tricks 💌](https://realpython.com/python-tricks/)
