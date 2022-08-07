@@ -34,6 +34,8 @@ The following is a list of all the scripts in this repository, open them to see 
 
 - [Python's list slice syntax can be used without indices](scripts/list-slice-without-indices.py)
 
+- [Peeking Behind The Bytecode Curtain](scripts/peeking-behind-bytecode-curtain.py)
+
 # Docs
 
 - [Python's built-in HTTP server](docs/python-built-in-http-server.md)
