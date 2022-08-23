@@ -36,6 +36,8 @@ The following is a list of all the scripts in this repository, open them to see 
 
 - [Peeking Behind The Bytecode Curtain](scripts/peeking-behind-bytecode-curtain.py)
 
+- [@classmethod vs @staticmethod vs "plain" methods](scripts/classmethod-vs-staticmethod-vs-plain.py)
+
 # Docs
 
 - [Python's built-in HTTP server](docs/python-built-in-http-server.md)
