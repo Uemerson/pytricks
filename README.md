@@ -38,6 +38,8 @@ The following is a list of all the scripts in this repository, open them to see 
 
 - [@classmethod vs @staticmethod vs "plain" methods](scripts/classmethod-vs-staticmethod-vs-plain.py)
 
+- [Lambda Functions](scripts/lambda-functions.py)
+
 # Docs
 
 - [Python's built-in HTTP server](docs/python-built-in-http-server.md)
