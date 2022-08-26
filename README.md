@@ -40,6 +40,8 @@ The following is a list of all the scripts in this repository, open them to see 
 
 - [Lambda Functions](scripts/lambda-functions.py)
 
+- [Working with IP addresses in Python 3](scripts/working-with-IP-addresses-in-python-3.py)
+
 # Docs
 
 - [Python's built-in HTTP server](docs/python-built-in-http-server.md)
