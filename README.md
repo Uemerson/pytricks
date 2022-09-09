@@ -54,6 +54,8 @@ The following is a list of all the scripts in this repository, open them to see 
 
 - [When To Use __repr__ vs __str__?](docs/__repr__%20vs%20__str__.md)
 
+- [Python 3 allows unicode variable names](docs/unicode-variable-names.md)
+
 # Easter eggs
 
 - [A fun little CPython easter egg](easter-eggs/antigravity.md)
