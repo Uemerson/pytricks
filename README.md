@@ -42,6 +42,8 @@ The following is a list of all the scripts in this repository, open them to see 
 
 - [Working with IP addresses in Python 3](scripts/working-with-IP-addresses-in-python-3.py)
 
+- [Accessing class and function names at runtime](scripts/accessing-class-function-names-at-runtime.py)
+
 # Docs
 
 - [Python's built-in HTTP server](docs/python-built-in-http-server.md)
