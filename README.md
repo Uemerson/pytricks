@@ -44,6 +44,8 @@ The following is a list of all the scripts in this repository, open them to see 
 
 - [Accessing class and function names at runtime](scripts/accessing-class-function-names-at-runtime.py)
 
+- [Class inheritance and the issubclass() built-in](scripts/issubclass-built-in.py)
+
 # Docs
 
 - [Python's built-in HTTP server](docs/python-built-in-http-server.md)
