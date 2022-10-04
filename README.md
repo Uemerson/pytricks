@@ -56,7 +56,9 @@ The following is a list of all the scripts in this repository, open them to see 
 
 - [Python 3 allows unicode variable names](docs/unicode-variable-names.md)
 
-- [Awesome Python built-ins: globals() and locals()](docs/)
+- [Awesome Python built-ins: globals() and locals()](docs/globals-locals.md)
+
+- [Python 3.3+ has a new "faulthandler" std lib module](docs/faulthandler.md)
 
 # Easter eggs
 
