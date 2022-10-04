@@ -60,6 +60,8 @@ The following is a list of all the scripts in this repository, open them to see 
 
 - [Python 3.3+ has a new "faulthandler" std lib module](docs/faulthandler.md)
 
+- [Avoid version conflicts with Virtual Environments](docs/avoid-version-conflicts-virtual-environments.md)
+
 # Easter eggs
 
 - [A fun little CPython easter egg](easter-eggs/antigravity.md)
