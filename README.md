@@ -56,6 +56,8 @@ The following is a list of all the scripts in this repository, open them to see 
 
 - [Python 3 allows unicode variable names](docs/unicode-variable-names.md)
 
+- [Awesome Python built-ins: globals() and locals()](docs/)
+
 # Easter eggs
 
 - [A fun little CPython easter egg](easter-eggs/antigravity.md)
