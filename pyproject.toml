@@ -9,6 +9,12 @@ readme = "README.md"
 python = "^3.11"
 
 
+[tool.poetry.group.dev.dependencies]
+mypy = "^0.991"
+pylint = "^2.15.9"
+flake8 = "^6.0.0"
+black = {version = "^23.1a1", allow-prereleases = true}
+
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
