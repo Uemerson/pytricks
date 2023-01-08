@@ -3,6 +3,7 @@
 In this repository I keep some tricks that are allowed in the Python language ❤
 
 # List of all scripts
+
 The following is a list of all the scripts in this repository, open them to see the tricks:
 
 - [Python's shorthand for in-place value swapping](scripts/in-place-value-swapping.py)
@@ -29,7 +30,6 @@ The following is a list of all the scripts in this repository, open them to see 
 
 - [Dicts can be used to emulate switch/case statements](scripts/dict-emulate-switch-case.py)
 
-
 - [Type annotations](scripts/type-annotations.py)
 
 - [Python's list slice syntax can be used without indices](scripts/list-slice-without-indices.py)
@@ -52,7 +52,7 @@ The following is a list of all the scripts in this repository, open them to see 
 
 - [Python's list comprehensions are awesome](docs/list-comprehensions.md)
 
-- [When To Use __repr__ vs __str__?](docs/__repr__%20vs%20__str__.md)
+- [When To Use **repr** vs **str**?](docs/__repr__%20vs%20__str__.md)
 
 - [Python 3 allows unicode variable names](docs/unicode-variable-names.md)
 
@@ -62,6 +62,8 @@ The following is a list of all the scripts in this repository, open them to see 
 
 - [Avoid version conflicts with Virtual Environments](docs/avoid-version-conflicts-virtual-environments.md)
 
+- ["for" (and "while") loops can have an "else" branch?](docs/for-and-while-loops-can-have-an-else-branch.md)
+
 # Easter eggs
 
 - [A fun little CPython easter egg](easter-eggs/antigravity.md)
@@ -70,6 +72,6 @@ The following is a list of all the scripts in this repository, open them to see 
 
 - [Generates permutations for an iterable](scripts/generates-permutations.py)
 
-
 # References and credits
+
 Some tricks were taken from [RealPython - 🐍 Python Tricks 💌](https://realpython.com/python-tricks/)
