@@ -48,6 +48,8 @@ The following is a list of all the scripts in this repository, open them to see 
 
 - [Check if all elements in a list are equal](scripts/check-if-all-elements-in-a-list-are-equal.py)
 
+- [Selectively ignore specific exceptions](scripts/contextlib-suppress.py)
+
 # Docs
 
 - [Python's built-in HTTP server](docs/python-built-in-http-server.md)
