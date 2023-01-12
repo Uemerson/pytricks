@@ -68,6 +68,8 @@ The following is a list of all the scripts in this repository, open them to see 
 
 - ["for" (and "while") loops can have an "else" branch?](docs/for-and-while-loops-can-have-an-else-branch.md)
 
+- [Forced keyword-only parameters in Python 3.x](docs/forced-keyword-only-parameters-in-python.md)
+
 # Easter eggs
 
 - [A fun little CPython easter egg](easter-eggs/antigravity.md)
