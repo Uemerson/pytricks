@@ -50,6 +50,8 @@ The following is a list of all the scripts in this repository, open them to see 
 
 - [Selectively ignore specific exceptions](scripts/contextlib-suppress.py)
 
+- [Multiple sets of kwargs in Python 3.5+](scripts/multiple-sets-of-kwargs-in-python.py)
+
 # Docs
 
 - [Python's built-in HTTP server](docs/python-built-in-http-server.md)
